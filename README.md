@@ -5,4 +5,4 @@
 Windows版は肝心なexeファイルがなぜか出てきませんw
 
 ### ダウンロード
-[Windows版](http://koromoko10.starfree.com/koromoko10-hpapp/koromoko10-hpapp-win.zip)
+[Windows版](http://koromoko10.starfree.jp/koromoko10-hpapp/koromoko10-hpapp-win.zip)
