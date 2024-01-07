@@ -1,0 +1,5 @@
+{
+    "name": "Win_koromoko-homepage-app",
+    "main": "electron-main.js",
+    "version": "1.0.0"
+}
