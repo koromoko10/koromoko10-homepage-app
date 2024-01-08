@@ -3,7 +3,7 @@
 [koromoko10ホームページ](https://koromoko10-homepage.jimdofree.com/)
 をiframe表示しているだけのソフトです
 
-### ダウンロード
+## ダウンロード
 [Windows版](http://koromoko10.starfree.jp/koromoko10-hpapp/koromoko10-hpapp-win.zip) 
 > `http://koromoko10/starfree.jp/koromoko10-hpapp/koromoko10-hpapp-win.zip`からDLします
 > 
@@ -27,7 +27,7 @@
 [html版](Win_koromoko-homepage-app/resources/app)<br>
 >Githubのレポジトリ内のresourcesにAssetsあるんでそこから取ってってください
 
-### 起動方法
+## 起動方法
 1.zipファイルを展開する（7-zipおすすめ）
 
 2.**Linux版**に関しては`start.sh`で起動するハズ
@@ -36,5 +36,5 @@
 Electronソフトなので初期化したい場合は`c:\Users\user\Appdata\Local`か`Roaming`かのどちらかに**kormoko10-hpapp**みたいな感じのフォルダがあるのでそれ削除したらいいです<br>
 おそらく起動時に作ってるフォルダはそれだけです
 
-### 最後に
+## 最後に
 ちなみにこのソフト実際はElectronのテストで作っただけ()
