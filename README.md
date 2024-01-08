@@ -24,6 +24,9 @@
 > 
 >安全にダウンロードできないと警告が出る場合がありますが、無視して大丈夫です。（多分httpの鯖だから）
 
+[html版](Win_koromoko-homepage-app/resources/app)<br>
+>Githubのレポジトリ内のresourcesにAssetsあるんでそこから取ってってください
+
 ### 起動方法
 1.zipファイルを展開する（7-zipおすすめ）
 
