@@ -14,21 +14,18 @@ FireFoxも通常通りダウンロードできます
 ### ダウンロード
 [Windows版](http://koromoko10.starfree.jp/koromoko10-hpapp/koromoko10-hpapp-win.zip) 
 > `http://koromoko10/starfree.jp/koromoko10-hpapp/koromoko10-hpapp-win.zip`からDLします<br>
-> [保存できないとき](https://github.com/koromoko10/koromoko10-homepage-app?tab=readme-ov-file)
+> 安全にダウンロードできないと警告が出る場合がありますが、無視して大丈夫です。（多分httpの鯖だから）
 
 [Mac版](http://koromoko10.starfree.jp/koromoko10-hpapp/koromoko10-hpapp-mac.zip) 
-> `http://koromoko10/starfree.jp/koromoko10-hpapp/koromoko10-hpapp-mac.zip`からDLします
-> 
+> `http://koromoko10/starfree.jp/koromoko10-hpapp/koromoko10-hpapp-mac.zip`からDLします<br>
 >安全にダウンロードできないと警告が出る場合がありますが、無視して大丈夫です。（多分httpの鯖だから）
 
 [Linux版](http://koromoko10.starfree.jp/koromoko10-hpapp/koromoko10-hpapp-linux.zip) *
-> `http://koromoko10/starfree.jp/koromoko10-hpapp/koromoko10-hpapp-linux.zip`からDLします
-> 
->安全にダウンロードできないと警告が出る場合がありますが、無視して大丈夫です。（多分httpの鯖だから）
+> `http://koromoko10/starfree.jp/koromoko10-hpapp/koromoko10-hpapp-linux.zip`からDLします<br>
+> 安全にダウンロードできないと警告が出る場合がありますが、無視して大丈夫です。（多分httpの鯖だから）
 
 [Android版](http://koromoko10.starfree.jp/koromoko10-hpapp/20240107221116-app-debug.apk) 
-> `http://koromoko10/starfree.jp/koromoko10-hpapp/20240107221116-app-debug.apk`からDLします
-> 
+> `http://koromoko10/starfree.jp/koromoko10-hpapp/20240107221116-app-debug.apk`からDLします<br> 
 >安全にダウンロードできないと警告が出る場合がありますが、無視して大丈夫です。（多分httpの鯖だから）
 
 [html版](Win_koromoko-homepage-app/resources/app)<br>
