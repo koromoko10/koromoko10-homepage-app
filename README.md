@@ -4,10 +4,17 @@
 をiframe表示しているだけのソフトです
 
 ## ダウンロード
+### 注意事項
+どうやらGoogle Chromeではリンク踏んでもダウンロードが開始されないみたいです、、、<br>
+リンクをドラックアンドドロップで上部のタブ部分に移動させるとダウンロードできるようになります<br>
+（多分これもセキュリティの関係上、ほかのサイトからhttpの鯖を通してDLすることはできないらしい）<br><br>
+Edgeは安全にダウンロードできないという警告が出ますが無視して保存できます<br><br>
+FireFoxも通常通りダウンロードできます
+
+### ダウンロード
 [Windows版](http://koromoko10.starfree.jp/koromoko10-hpapp/koromoko10-hpapp-win.zip) 
-> `http://koromoko10/starfree.jp/koromoko10-hpapp/koromoko10-hpapp-win.zip`からDLします
-> 
->安全にダウンロードできないと警告が出る場合がありますが、無視して大丈夫です。（多分httpの鯖だから）
+> `http://koromoko10/starfree.jp/koromoko10-hpapp/koromoko10-hpapp-win.zip`からDLします<br>
+> [保存できないとき](https://github.com/koromoko10/koromoko10-homepage-app?tab=readme-ov-file)
 
 [Mac版](http://koromoko10.starfree.jp/koromoko10-hpapp/koromoko10-hpapp-mac.zip) 
 > `http://koromoko10/starfree.jp/koromoko10-hpapp/koromoko10-hpapp-mac.zip`からDLします
