@@ -1,0 +1,214 @@
+[22:10:25] + WORKING_DIR=/tmp
+[22:10:25] + DOWNLOAD_DIR=/tmp/download
+[22:10:25] + NODE_VERSION=v18.16
+[22:10:25] + PROJECT_NAME='koromoko10 []'
+[22:10:25] + PROJECT_DESCRIPTION=koromoko10
+[22:10:25] + APP_FILE_NAME=android-debug.apk
+[22:10:25] + NPM_REPOSITORY=https://npm.monaca.io
+[22:10:25] + ANDROID_PLATFORM_VERSION=12.0.0
+[22:10:25] + BUILD_QUEUE_ID=659aa2bee78885497429c9d9
+[22:10:25] + NPM_CLI_PARAMS=--production
+[22:10:25] + NPM_COMMAND_CONFIG=
+[22:10:25] + DOWNLOAD_URL=http://192.168.2.1:3002/project
+[22:10:25] + UPLOAD_URL=http://192.168.2.1:3002/addUploadQueue
+[22:10:25] + PATH=/opt/gradle/gradle-7.6/bin:/root/.nvm/versions/node/v18.16.1/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/android-sdk/tools
+[22:10:25] + source /root/.nvm/nvm.sh
+[22:10:25] + PROJECT_FILE=project.tar.gz
+[22:10:25] + EXIT_CODE_FOR_RETRY=123
+[22:10:25] + mkdir -p /tmp/download
+[22:10:25] + cd /tmp/download
+[22:10:25] + wget http://192.168.2.1:3002/project -O project.tar.gz -q --show-progress --progress=bar:force:noscroll
+[22:10:26] project.tar.gz          [<=>                 ]       0  --.-KB/s               
+[22:10:26] project.tar.gz          [ <=>                ]   1.49M  7.38MB/s               
+[22:10:26] project.tar.gz          [  <=>               ]   1.60M  7.03MB/s    in 0.2s    
+[22:10:26] + tar tzf project.tar.gz
+[22:10:26] + '[' -s project.tar.gz ']'
+[22:10:26] + tar xzfo project.tar.gz
+[22:10:26] + rm -rf package-lock.json platforms yarn.lock
+[22:10:26] + npm set registry https://npm.monaca.io
+[22:10:26] + '[' -n '' ']'
+[22:10:26] + nvm use v18.16
+[22:10:26] + cordova telemetry off
+[22:10:27] You have been opted out of telemetry. To change this, run: cordova telemetry on.
+[22:10:27] + npm -v
+[22:10:27] 9.5.1
+[22:10:27] + cordova -v
+[22:10:28] 12.0.0 (cordova-lib@12.0.1)
+[22:10:28] + gradle -v
+[22:10:28] ------------------------------------------------------------
+[22:10:28] Gradle 7.6
+[22:10:28] ------------------------------------------------------------
+[22:10:28] Build time:   2022-11-25 13:35:10 UTC
+[22:10:28] Revision:     daece9dbc5b79370cc8e4fd6fe4b2cd400e150a8
+[22:10:28] Kotlin:       1.7.10
+[22:10:28] Groovy:       3.0.13
+[22:10:28] Ant:          Apache Ant(TM) version 1.10.11 compiled on July 10 2021
+[22:10:28] JVM:          11.0.20 (Ubuntu 11.0.20+8-post-Ubuntu-1ubuntu123.04)
+[22:10:28] OS:           Linux 5.15.74-1-pve amd64
+[22:10:28] + set +e
+[22:10:28] + npm install -g typescript
+[22:10:30] added 1 package in 2s
+[22:10:30] + npm install --production
+[22:10:31] npm
+[22:10:31]  WARN config production Use `--omit=dev` instead.
+[22:10:53] added 7 packages in 22s
+[22:10:53] npm notice 
+[22:10:53] npm notice New major version of npm available! 9.5.1 -> 10.2.5
+[22:10:53] npm notice Changelog: <https://github.com/npm/cli/releases/tag/v10.2.5>
+[22:10:53] npm notice Run `npm install -g npm@10.2.5` to update!
+[22:10:53] npm 
+[22:10:53] notice 
+[22:10:53] + npm_result=0
+[22:10:53] + npm_retry=0
+[22:10:53] + '[' 0 -eq 0 ']'
+[22:10:53] + set -e
+[22:10:53] + '[' 0 -ne 0 ']'
+[22:10:53] + set +e
+[22:10:53] + cordova platform add android@12.0.0
+[22:10:54] Using cordova-fetch for cordova-android@12.0.0
+[22:10:58] Adding android project...
+[22:10:58] Creating Cordova project for the Android platform:
+[22:10:58] 	Path: platforms/android
+[22:10:58] 	Package: com.koromoko10.hpapp
+[22:10:58] 	Name: koromoko10ホームページアプリ
+[22:10:58] 	Activity: MainActivity
+[22:10:58] 	Android Target SDK: android-33
+[22:10:58] 	Android Compile SDK: 33
+[22:10:58] Subproject Path: CordovaLib
+[22:10:58] Subproject Path: app
+[22:10:58] Android project created with cordova-android@12.0.0
+[22:10:58] Discovered plugin "cordova-plugin-camera". Adding it to the project
+[22:10:58] Installing "cordova-plugin-camera" for android
+[22:10:58] Subproject Path: CordovaLib
+[22:10:58] Subproject Path: app
+[22:10:58] Adding cordova-plugin-camera to package.json
+[22:10:58] Discovered plugin "cordova-plugin-device". Adding it to the project
+[22:10:58] Installing "cordova-plugin-device" for android
+[22:10:58] Adding cordova-plugin-device to package.json
+[22:10:58] Discovered plugin "cordova-plugin-geolocation". Adding it to the project
+[22:10:58] Installing "cordova-plugin-geolocation" for android
+[22:10:58] Adding cordova-plugin-geolocation to package.json
+[22:10:58] Discovered plugin "cordova-plugin-network-information". Adding it to the project
+[22:10:58] Installing "cordova-plugin-network-information" for android
+[22:10:58] Adding cordova-plugin-network-information to package.json
+[22:10:58] Discovered plugin "cordova-plugin-vibration". Adding it to the project
+[22:10:58] Installing "cordova-plugin-vibration" for android
+[22:10:58] Adding cordova-plugin-vibration to package.json
+[22:10:58] Discovered plugin "monaca-plugin-monaca-core". Adding it to the project
+[22:10:58] Installing "monaca-plugin-monaca-core" for android
+[22:10:58] Adding monaca-plugin-monaca-core to package.json
+[22:10:58] Discovered plugin "cordova-plugin-inappbrowser". Adding it to the project
+[22:10:58] Installing "cordova-plugin-inappbrowser" for android
+[22:10:59] Adding cordova-plugin-inappbrowser to package.json
+[22:10:59] + cordova_result=0
+[22:10:59] + cordova_retry=0
+[22:10:59] + '[' 0 -eq 0 ']'
+[22:10:59] + set -e
+[22:10:59] + '[' 0 -ne 0 ']'
+[22:10:59] + cordova build android --debug --device
+[22:10:59] Checking Java JDK and Android SDK versions
+[22:10:59] ANDROID_HOME=/usr/local/android-sdk (recommended setting)
+[22:10:59] ANDROID_SDK_ROOT=/usr/local/android-sdk (DEPRECATED)
+[22:10:59] Using Android SDK: /usr/local/android-sdk
+[22:10:59] Reading build config file: /tmp/download/build.json
+[22:11:00] Starting a Gradle Daemon, 2 incompatible and 1 stopped Daemons could not be reused, use --status for details
+[22:11:02] > Task :wrapper
+[22:11:02] Deprecated Gradle features were used in this build, making it incompatible with Gradle 8.0.
+[22:11:02] You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+[22:11:02] See https://docs.gradle.org/7.6/userguide/command_line_interface.html#sec:command_line_warnings
+[22:11:02] BUILD SUCCESSFUL in 2s
+[22:11:02] 1 actionable task: 1 executed
+[22:11:03] Subproject Path: CordovaLib
+[22:11:03] Subproject Path: app
+[22:11:08] > Task :app:preBuild
+[22:11:08]  UP-TO-DATE
+[22:11:08] > Task :app:preDebugBuild UP-TO-DATE
+[22:11:08] > Task :app:mergeDebugNativeDebugMetadata NO-SOURCE
+[22:11:08] > Task :CordovaLib:preBuild UP-TO-DATE
+[22:11:08] > Task :CordovaLib:preDebugBuild UP-TO-DATE
+[22:11:08] > Task :CordovaLib:compileDebugAidl NO-SOURCE
+[22:11:08] > Task :app:compileDebugAidl NO-SOURCE
+[22:11:08] > Task :CordovaLib:packageDebugRenderscript
+[22:11:08] > Task :app:compileDebugRenderscript NO-SOURCE
+[22:11:08] > Task :app:generateDebugBuildConfig
+[22:11:08] > Task :app:javaPreCompileDebug
+[22:11:08] > Task :app:generateDebugResValues
+[22:11:08] > Task :CordovaLib:writeDebugAarMetadata
+[22:11:09] > Task :CordovaLib:compileDebugRenderscript
+[22:11:09] The RenderScript APIs are deprecated. They will be removed in Android Gradle plugin 9.0. See the following link for a guide to migrate from RenderScript: https://developer.android.com/guide/topics/renderscript/migrate
+[22:11:10] > Task :CordovaLib:generateDebugResValues
+[22:11:10] > Task :CordovaLib:generateDebugResources
+[22:11:10] > Task :app:checkDebugAarMetadata
+[22:11:10] > Task :CordovaLib:packageDebugResources
+[22:11:10] > Task :app:mapDebugSourceSetPaths
+[22:11:10] > Task :app:generateDebugResources
+[22:11:10] > Task :app:createDebugCompatibleScreenManifests
+[22:11:10] > Task :app:extractDeepLinksDebug
+[22:11:10] > Task :CordovaLib:extractDeepLinksDebug
+[22:11:11] > Task :CordovaLib:compileDebugLibraryResources
+[22:11:11] > Task :CordovaLib:processDebugManifest
+[22:11:11] > Task :app:mergeDebugResources
+[22:11:11] > Task :CordovaLib:parseDebugLocalResources
+[22:11:11] > Task :app:processDebugMainManifest
+[22:11:11] > Task :app:processDebugManifest
+[22:11:11] > Task :CordovaLib:generateDebugBuildConfig
+[22:11:11] > Task :CordovaLib:javaPreCompileDebug
+[22:11:11] > Task :app:mergeDebugShaders
+[22:11:11] > Task :app:compileDebugShaders NO-SOURCE
+[22:11:11] > Task :app:generateDebugAssets UP-TO-DATE
+[22:11:11] > Task :CordovaLib:mergeDebugShaders
+[22:11:11] > Task :CordovaLib:compileDebugShaders NO-SOURCE
+[22:11:11] > Task :CordovaLib:generateDebugAssets UP-TO-DATE
+[22:11:11] > Task :CordovaLib:packageDebugAssets
+[22:11:11] > Task :CordovaLib:generateDebugRFile
+[22:11:11] > Task :app:mergeDebugAssets
+[22:11:13] > Task :CordovaLib:compileDebugJavaWithJavac
+[22:11:13] > Task :app:processDebugJavaRes NO-SOURCE
+[22:11:13] Note: Some input files use or override a deprecated API.
+[22:11:13] > Task :CordovaLib:processDebugJavaRes
+[22:11:13] > Task :CordovaLib:bundleLibCompileToJarDebug
+[22:11:13] Note: Recompile with -Xlint:deprecation for details.
+[22:11:13] > Task :CordovaLib:bundleLibResDebug
+[22:11:13] > Task :app:compressDebugAssets
+[22:11:13] > Task :app:checkDebugDuplicateClasses
+[22:11:13] > Task :app:desugarDebugFileDependencies
+[22:11:13] > Task :app:mergeDebugJniLibFolders
+[22:11:13] > Task :CordovaLib:mergeDebugJniLibFolders
+[22:11:13] > Task :CordovaLib:mergeDebugNativeLibs NO-SOURCE
+[22:11:13] > Task :app:processDebugManifestForPackage
+[22:11:13] > Task :CordovaLib:copyDebugJniLibsProjectOnly
+[22:11:13] > Task :CordovaLib:bundleLibRuntimeToDirDebug
+[22:11:13] > Task :app:mergeDebugJavaResource
+[22:11:15] > Task :app:mergeDebugNativeLibs NO-SOURCE
+[22:11:15] > Task :app:stripDebugDebugSymbols NO-SOURCE
+[22:11:15] > Task :app:validateSigningDebug
+[22:11:15] > Task :app:writeDebugAppMetadata
+[22:11:15] > Task :app:writeDebugSigningConfigVersions
+[22:11:15] > Task :app:processDebugResources
+[22:11:15] > Task :app:mergeExtDexDebug
+[22:11:15] > Task :app:compileDebugJavaWithJavac
+[22:11:15] Note: Some input files use or override a deprecated API.
+[22:11:15] Note: Recompile with -Xlint:deprecation for details.
+[22:11:16] > Task :app:mergeLibDexDebug
+[22:11:16] > Task :app:dexBuilderDebug
+[22:11:16] > Task :app:mergeProjectDexDebug
+[22:11:16] > Task :app:packageDebug
+[22:11:16] > Task :app:createDebugApkListingFileRedirect
+[22:11:16] > Task :app:assembleDebug
+[22:11:16] > Task :app:cdvBuildDebug
+[22:11:16] Deprecated Gradle features were used in this build, making it incompatible with Gradle 8.0.
+[22:11:16] You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+[22:11:16] See https://docs.gradle.org/7.6/userguide/command_line_interface.html#sec:command_line_warnings
+[22:11:16] BUILD SUCCESSFUL in 13s
+[22:11:16] 50 actionable tasks: 50 executed
+[22:11:16] Built the following apk(s): 
+[22:11:16] 	/tmp/download/platforms/android/app/build/outputs/apk/debug/app-debug.apk
+[22:11:16] + APP_FILE=/tmp/download/platforms/android/app/build/outputs/apk/debug/app-debug.apk
+[22:11:16] ++ curl -X POST http://192.168.2.1:3002/addUploadQueue -F name=android-debug.apk -F file=@/tmp/download/platforms/android/app/build/outputs/apk/debug/app-debug.apk -o /dev/null -w '%{http_code}'
+[22:11:16]   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+[22:11:16]               
+[22:11:16]                    Dload  Upload   Total   Spent    Left  Speed
+[22:11:16]   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+[22:11:16] 100 4508k  100     2  100 4508k    210   463M --:--:-- --:--:-- --:--:--  489M
+[22:11:16] + HTTP_RESPONSE=200
+[22:11:16] + '[' 200 -ne 200 ']'
