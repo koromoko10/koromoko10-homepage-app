@@ -13,7 +13,7 @@
 > ~FireFoxも通常通りダウンロードできます~ 
 
 ### ダウンロード
- ***[V1.0.0](https://github.com/koromoko10/koromoko10-homepage-app/tree/main/V1.0.0)から全て入手できるようになりました*** <br>
+ ***[V1.0.0](https://github.com/koromoko10/koromoko10-homepage-app/tree/main/V1.0.0)からHTML版以外全て入手できるようになりました*** <br>
   ***StarfreeサーバーからはDLできません*** <br>
 > ~[Windows版](http://koromoko10.starfree.jp/koromoko10-hpapp/koromoko10-hpapp-win.zip) 
 > `http://koromoko10/starfree.jp/koromoko10-hpapp/koromoko10-hpapp-win.zip`からDLします<br>
@@ -31,8 +31,8 @@
 > `http://koromoko10/starfree.jp/koromoko10-hpapp/20240107221116-app-debug.apk`からDLします<br> 
 >安全にダウンロードできないと警告が出る場合がありますが、無視して大丈夫です。（多分httpの鯖だから）~ 
 
-[html版](Win_koromoko-homepage-app/resources/app)<br>
->Githubのレポジトリ内のresourcesにAssetsあるんでそこから取ってってください
+> ~[html版](Win_koromoko-homepage-app/resources/app)<br>
+>Githubのレポジトリ内のresourcesにAssetsあるんでそこから取ってってください~ 
 
 ## 起動方法
 1.zipファイルを展開する（7-zipおすすめ）
