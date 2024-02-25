@@ -15,6 +15,7 @@
 ### ダウンロード
  ***[V1.0.0](https://github.com/koromoko10/koromoko10-homepage-app/tree/main/V1.0.0)からHTML版以外全て入手できるようになりました*** <br>
   ***StarfreeサーバーからはDLできません*** <br>
+ ***[V1.0.1](https://github.com/koromoko10/koromoko10-homepage-app/tree/main/V1.0.1%20reset-function-Update)が入手できるようになりました(Windows版のみ)*** <br>
 > ~[Windows版](http://koromoko10.starfree.jp/koromoko10-hpapp/koromoko10-hpapp-win.zip) 
 > `http://koromoko10/starfree.jp/koromoko10-hpapp/koromoko10-hpapp-win.zip`からDLします<br>
 > 安全にダウンロードできないと警告が出る場合がありますが、無視して大丈夫です。（多分httpの鯖だから）~ 
@@ -42,10 +43,12 @@
 ## 初期化する(Windows版)
 Electronソフトなので初期化したい場合は`c:\Users\user\Appdata\Local`か`Roaming`かのどちらかに**Win_koromoko-homepage-app**みたいな感じのフォルダがあるのでそれ削除したらいいです<br>
 おそらく起動時に作ってるフォルダはそれだけです<br>
-### 備考
-自分はWindows勢なのでWindows以外動作確認していません。<br>
-一応Androidも動作確認はしていますが、画面サイズが小さすぎるためあまり正しい確認ができてない気がします <br>
-初期化する際、他のファイルを残してることがあるので各自でご確認下さい
+## 動作確認済み
+* Windows版--- ***Windows 11 Pro*** で実機確認済み
+  * 互換性モード上だとWindows XP (SP2)から動作できるっぽいですが、<br>
+  大体 ***Windows 7/8/10/11*** ぐらいだと思います
+* Android版--- ***Walkman NW-A306***で実機確認済み<br>
+実機動作といってもスマホではないので実質動作確認できてません
 
 ## 最後に
 ちなみにこのソフト実際はElectronのテストで作っただけ()
