@@ -16,6 +16,7 @@
  ***[V1.0.0](https://github.com/koromoko10/koromoko10-homepage-app/tree/main/V1.0.0)からHTML版以外全て入手できるようになりました*** <br>
   ***StarfreeサーバーからはDLできません*** <br>
  ***[V1.0.1](https://github.com/koromoko10/koromoko10-homepage-app/tree/main/V1.0.1%20reset-function-Update)が入手できるようになりました(Windows版のみ)*** <br>
+  ***[V1.1.0](https://github.com/koromoko10/koromoko10-homepage-app/releases/tag/V1.1.0)が入手できるようになりました！*** <br>
 > ~[Windows版](http://koromoko10.starfree.jp/koromoko10-hpapp/koromoko10-hpapp-win.zip) 
 > `http://koromoko10/starfree.jp/koromoko10-hpapp/koromoko10-hpapp-win.zip`からDLします<br>
 > 安全にダウンロードできないと警告が出る場合がありますが、無視して大丈夫です。（多分httpの鯖だから）~ 
