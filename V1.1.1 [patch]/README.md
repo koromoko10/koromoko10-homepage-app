@@ -1,6 +1,6 @@
 # V1.1.1 Patch
 ## 初めに
-このパッチファイルは **V1.1.0** を対象としたパッチファイルです <br>
+このパッチファイルは **V1.1.0** のポータブル版を対象としたパッチファイルです <br>
 まだダウンロードしてない方は[こちら](https://github.com/koromoko10/koromoko10-homepage-app/releases/tag/V1.1.0)から 
 
 > [!IMPORTANT]
