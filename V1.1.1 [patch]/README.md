@@ -25,4 +25,4 @@
 * その他プログラムの改善を行いました
 
 ## 動作しない場合
-パッチではなく完全版の[V1.1.1](https://github.com/V1.1.1%2520%255Bpatch%255D/koromoko10-homepage-app.zip)をダウンロードしてご利用ください
+パッチではなく完全版の[V1.1.1](https://github.com/koromoko10/koromoko10-homepage-app/blob/main/V1.1.1%20%5Bpatch%5D/koromoko10-homepage-app.zip)をダウンロードしてご利用ください
