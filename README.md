@@ -1,40 +1,14 @@
 # koromoko10-homepage-app
 自分でいうのもあれだけど世界一いらないソフトだと思う。
-[koromoko10ホームページ](https://koromoko10-homepage.jimdofree.com/)
-をiframe表示しているだけのソフトです
 
 ## ダウンロード
-### 注意事項 
- ***全てのソースをGitHubに移動させたためこの問題は修正されました*** 
-> ~どうやらGoogle Chromeではリンク踏んでもダウンロードが開始されないみたいです、、、<br>~
-> ~リンクをドラックアンドドロップで上部のタブ部分に移動させるとダウンロードできるようになります<br>~ 
-> ~（多分これもセキュリティの関係上、ほかのサイトからhttpの鯖を通してDLすることはできないらしい）<br><br>~ 
-> ~Edgeは安全にダウンロードできないという警告が出ますが無視して保存できます<br><br>~ 
-> ~FireFoxも通常通りダウンロードできます~ 
-
-### ダウンロード
- ***[V1.0.0](https://github.com/koromoko10/koromoko10-homepage-app/tree/main/V1.0.0)からHTML版以外全て入手できるようになりました*** <br>
-  ***StarfreeサーバーからはDLできません*** <br>
- ***[V1.0.1](https://github.com/koromoko10/koromoko10-homepage-app/tree/main/V1.0.1%20reset-function-Update)が入手できるようになりました(Windows版のみ)*** <br>
-  ***[V1.1.0](https://github.com/koromoko10/koromoko10-homepage-app/releases/tag/V1.1.0)が入手できるようになりました！*** <br>
-> ~[Windows版](http://koromoko10.starfree.jp/koromoko10-hpapp/koromoko10-hpapp-win.zip) 
-> `http://koromoko10/starfree.jp/koromoko10-hpapp/koromoko10-hpapp-win.zip`からDLします<br>
-> 安全にダウンロードできないと警告が出る場合がありますが、無視して大丈夫です。（多分httpの鯖だから）~ 
-
-> ~[Mac版](http://koromoko10.starfree.jp/koromoko10-hpapp/koromoko10-hpapp-mac.zip) 
-> `http://koromoko10/starfree.jp/koromoko10-hpapp/koromoko10-hpapp-mac.zip`からDLします<br>
->安全にダウンロードできないと警告が出る場合がありますが、無視して大丈夫です。（多分httpの鯖だから）~ 
-
-> ~[Linux版](http://koromoko10.starfree.jp/koromoko10-hpapp/koromoko10-hpapp-linux.zip) *
-> `http://koromoko10/starfree.jp/koromoko10-hpapp/koromoko10-hpapp-linux.zip`からDLします<br>
-> 安全にダウンロードできないと警告が出る場合がありますが、無視して大丈夫です。（多分httpの鯖だから）~
-
-> ~[Android版](http://koromoko10.starfree.jp/koromoko10-hpapp/20240107221116-app-debug.apk) 
-> `http://koromoko10/starfree.jp/koromoko10-hpapp/20240107221116-app-debug.apk`からDLします<br> 
->安全にダウンロードできないと警告が出る場合がありますが、無視して大丈夫です。（多分httpの鯖だから）~ 
-
-> ~[html版](Win_koromoko-homepage-app/resources/app)<br>
->Githubのレポジトリ内のresourcesにAssetsあるんでそこから取ってってください~ 
+| プラットフォーム  | [V1.1.1](https://github.com/koromoko10/koromoko10-homepage-app/tree/main/V1.1.1%20%5Bpatch%5D) | [V1.1.0](https://github.com/koromoko10/koromoko10-homepage-app/releases/tag/V1.1.0) | [V1.0.1](https://github.com/koromoko10/koromoko10-homepage-app/releases/tag/V1.0.1_Win-Update) | [V1.0.0](https://github.com/koromoko10/koromoko10-homepage-app/tree/main/V1.0.0) |
+|:-----|:-----|:-----|:-----|:-----|
+| Windows(ポータブル版) | [.json (patch)](https://github.com/koromoko10/koromoko10-homepage-app/blob/main/V1.1.1%20%5Bpatch%5D/project.json) , [.zip (full)](https://github.com/koromoko10/koromoko10-homepage-app/blob/main/V1.1.1%20%5Bpatch%5D/koromoko10-homepage-app.zip) | [.zip](https://github.com/koromoko10/koromoko10-homepage-app/releases/download/V1.1.0/Win.V1.1.0-koromoko10-homepage-app.zip) | [.zip](https://github.com/koromoko10/koromoko10-homepage-app/releases/download/V1.0.1_Win-Update/Win_koromoko-homepage-app.zip) | [.zip](https://github.com/koromoko10/koromoko10-homepage-app/blob/main/V1.0.0/V1.0.0%20Win_koromoko10%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%97%E3%83%AA%20%5B%E4%B8%96%E7%95%8C%E4%B8%80%E3%81%84%E3%82%89%E3%81%AA%E3%81%84%E3%82%BD%E3%83%95%E3%83%88%5D.zip) |
+| Windows(インストーラー版) | N/A | [.exe](https://github.com/koromoko10/koromoko10-homepage-app/releases/download/V1.1.0/Win.V1.1.0-koromoko10-homepage-app.Setup.exe) | N/A | N/A |
+| Mac | N/A | [.zip](https://github.com/koromoko10/koromoko10-homepage-app/releases/download/V1.1.0/Mac.V1.1.0-koromoko10-homepage-app.zip) | N/A | [.zip](https://github.com/koromoko10/koromoko10-homepage-app/blob/main/V1.0.0/V1.0.0%20Mac_koromoko10%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%97%E3%83%AA%20%5B%E4%B8%96%E7%95%8C%E4%B8%80%E3%81%84%E3%82%89%E3%81%AA%E3%81%84%E3%82%BD%E3%83%95%E3%83%88%5D%20Mac%E7%89%88.zip) |
+| Linux | N/A | [.zip](https://github.com/koromoko10/koromoko10-homepage-app/releases/download/V1.1.0/Linux.V1.1.0-koromoko10-homepage-app.zip) | N/A | [.zip](https://github.com/koromoko10/koromoko10-homepage-app/blob/main/V1.0.0/V1.0.0%20Linux_koromoko10%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%97%E3%83%AA%20%5B%E4%B8%96%E7%95%8C%E4%B8%80%E3%81%84%E3%82%89%E3%81%AA%E3%81%84%E3%82%BD%E3%83%95%E3%83%88%5D%20Linux%E7%89%88.zip) |
+| Android | N/A | N/A | N/A | [.apk](https://github.com/koromoko10/koromoko10-homepage-app/blob/main/V1.0.0/V1.0.0%20Android_20240107221116-app-debug.apk) |
 
 ## 起動方法
 1.zipファイルを展開する（7-zipおすすめ）
