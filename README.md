@@ -15,8 +15,12 @@
 
 2.**Linux版**に関しては`start.sh`で起動するハズ
 
-## 初期化する(Windowsポータブル版)
+## ユーザーデータの初期化
+### Windowsポータブル版
 Electronソフトなので初期化したい場合は`c:\Users\user\Appdata\Local`か`Roaming`かのどちらかに**Win_koromoko-homepage-app**みたいな感じのフォルダがあるのでそれ削除したらいいです<br>
+おそらく起動時に作ってるフォルダはそれだけです<br>
+### MacOS版
+私はMacを持っていないので詳しく分かりませんが、Electronソフトなので `~/Library/Application Support/` 以降に **Mac_koromoko-homepage-app** みたいな感じのフォルダがあるのでそれを削除したらいいです<br>
 おそらく起動時に作ってるフォルダはそれだけです<br>
 ## 動作確認済み
 * Windows版--- ***Windows 11 Pro*** で実機確認済み
