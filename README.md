@@ -12,6 +12,7 @@
 | Linux | [.zip](https://github.com/koromoko10/koromoko10-homepage-app/releases/download/V1.1.2/Lin.koromoko10-homepage-app.zip) | N/A | [.zip](https://github.com/koromoko10/koromoko10-homepage-app/releases/download/V1.1.0/Linux.V1.1.0-koromoko10-homepage-app.zip) | N/A | [.zip](https://github.com/koromoko10/koromoko10-homepage-app/blob/main/V1.0.0/V1.0.0%20Linux_koromoko10%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%97%E3%83%AA%20%5B%E4%B8%96%E7%95%8C%E4%B8%80%E3%81%84%E3%82%89%E3%81%AA%E3%81%84%E3%82%BD%E3%83%95%E3%83%88%5D%20Linux%E7%89%88.zip) |
 | Linux-ARM | [.zip](https://github.com/koromoko10/koromoko10-homepage-app/releases/download/V1.1.2/Lin-ARM.koromoko10-homepage-app.zip) | N/A | N/A | N/A | N/A |
 | Android [^1] | N/A | N/A | N/A | N/A | [.apk](https://github.com/koromoko10/koromoko10-homepage-app/blob/main/V1.0.0/V1.0.0%20Android_20240107221116-app-debug.apk) |
+| VisiOS (β) [^2] | [.visiapp](https://github.com/koromoko10/koromoko10-homepage-app/releases/download/V1.1.2/VisiApp_koromoko10._.visiapp) | N/A | N/A | N/A | N/A |
 
 > [!TIP]
 > Chrome OS版は開発していませんが、**Linux開発環境** を入れることでLinux版を使用できるようになると思います
@@ -20,6 +21,7 @@
 > それ以外のものは動作確認あまりできてないです
 
 [^1]: Android版は開発・維持が難しいと判断したため、サポート終了しました
+[^2]: VisiOSについては[こちら](https://beta-japan.com/)をご覧ください
 
 ## 起動方法
 1.zipファイルを展開する（7-zipおすすめ）
