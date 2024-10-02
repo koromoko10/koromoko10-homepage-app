@@ -1,4 +1,5 @@
 # koromoko10-homepage-app
+<img width="800" src="https://github.com/koromoko10/koromoko10-homepage-app/blob/main/screenshot.png?raw=true" title="Screenshot"> <br>
 自分でいうのもあれだけど世界一いらないソフトだと思う。
 
 ## ダウンロード
