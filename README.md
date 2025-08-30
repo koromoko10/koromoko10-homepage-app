@@ -35,12 +35,6 @@ Electronソフトなので初期化したい場合は`c:\Users\user\Appdata\Loca
 ### MacOS版
 私はMacを持っていないので詳しく分かりませんが、Electronソフトなので `~/Library/Application Support/` 以降に **Mac_koromoko-homepage-app** みたいな感じのフォルダがあるのでそれを削除したらいいです<br>
 おそらく起動時に作ってるフォルダはそれだけです<br>
-## 動作確認済み
-* Windows版--- ***Windows 11 Pro*** で実機確認済み
-  * 互換性モード上だとWindows XP (SP2)から動作できるっぽいですが、<br>
-  大体 ***Windows 7/8/10/11*** ぐらいだと思います
-* Android版--- ***Walkman NW-A306***で実機確認済み<br>
-実機動作といってもスマホではないので実質動作確認できてません
 ## 文字が表示されない(V1.1.0以降)
  `Arial` フォントが入っている必要があります（Windows標準・Mac標準であるはず）
 ## 最後に
